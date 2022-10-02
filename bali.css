@@ -39,12 +39,7 @@
     
 }
 
-.diagonalImg .box-container img{
-    height: 321px;
-    width: 494px;
-    object-fit: cover;
-    border: 0.5rem solid #2B7A78;
-}
+//////////
 
 .diagonalImg .text{
     text-align: center;
