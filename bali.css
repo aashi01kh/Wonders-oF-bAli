@@ -716,7 +716,7 @@ section .about-meal img{
     animation-fill-mode: backwards;
 }
 @keyframes textType{
-    0{
+    0%{
         left: 0%;
 
     }
