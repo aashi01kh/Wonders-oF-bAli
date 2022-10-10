@@ -31,13 +31,7 @@
     
 }
 
-.diagonalImg .box-container {
-    position: relative;
-    flex: 1 1 23rem;
-    height: 21rem;
-    overflow: hidden;
-    
-}
+
 
 
 .diagonalImg .box-container img{
